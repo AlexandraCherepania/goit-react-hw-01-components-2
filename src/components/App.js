@@ -8,7 +8,6 @@ import { FriendListItem } from './Friends/FriendListItem'
 import { TransactionHistory } from './Transaction/TransactionHistory'
 
 
-
 export const App = () => {
     return (<div style={{
         display: "flex",
