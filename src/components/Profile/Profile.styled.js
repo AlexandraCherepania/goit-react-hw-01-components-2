@@ -20,6 +20,8 @@ export const Avatar = styled.img`
 padding: 30px 50px;
 max-width: 120px;
 border-radius: 50%;
+box-shadow:5px 5px 4px 0px rgba(189,189,189,0.58);
+
 `;
 export const Name = styled.p`
 color: black;
